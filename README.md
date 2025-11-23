@@ -32,9 +32,9 @@ A transportadora "Translog" atende clientes empresariais para entregas de produt
 
 ### 3. 📦 Gestão de Cargas
 - **Classificação automática por peso:**
-  - Leve (até 10kg): R$ 0,92/km × 1.0
-  - Média (10-100kg): R$ 0,92/km × 1.5
-  - Pesada (acima de 100kg): R$ 0,92/km × 2.0
+  - Leve (até 150kg): R$ 0,92/km × 1.0
+  - Média (150-500kg): R$ 0,92/km × 1.5
+  - Pesada (acima de 500kg): R$ 0,92/km × 2.0
 - **Cargas especiais** (frágeis/perigosas): adicional de 40%
 
 ### 4. 📅 Sistema de Agendamento Inteligente
