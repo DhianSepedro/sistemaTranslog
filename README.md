@@ -299,12 +299,6 @@ O sistema também possui uma versão console, mantida comentada no `Main.java` p
 
 ---
 
-## 📄 Licença
-
-Projeto acadêmico - todos os direitos reservados aos autores.
-
----
-
 ## 🎯 Diferenciais do Projeto
 
 ✨ **Interface Gráfica Completa** - Poucos grupos implementaram GUI  
